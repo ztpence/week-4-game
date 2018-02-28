@@ -1,0 +1,75 @@
+body {
+    background-image: url(../images/background.jpg);
+    
+
+}
+
+#header {
+    width: 200px; 
+    height:40px; 
+    background:coral;
+    margin-left: 3%;
+    margin-top: 1%;
+    text-align: center;
+    padding-top: 15px;
+    font-size: 21px;
+    
+    
+}
+
+#text-box {
+    width: 500px; 
+    height:175px; 
+    background:lightgreen;
+    margin-left: 3%;
+    padding-top: 5px;
+    
+}
+#random-number-box {
+    
+    width: 200px; 
+    height:60px; 
+    background:lightblue;
+    margin-left: 3%;
+    text-align: center;
+    padding-top: 30px;
+    text-align: center;
+    font-size: 25px;
+      
+    
+}
+
+#player-score-box {
+
+     width: 200px;
+     height:50px; 
+     background:lightblue;
+     margin-left: 3%;
+     text-align: center;
+     padding-top: 20px;
+     
+}
+
+#crystals{
+    margin:3%;
+    
+    
+    
+}
+#total-score-box {
+    width: 200px; 
+    height:20px; 
+    background:coral;
+    margin-left: 3%;
+  
+}
+
+#number-counter-box {
+    width: 200px; 
+    height:65px; 
+    background:coral;
+    margin-left: 3%;
+    text-align: center;
+    font-size: 25px;
+    padding-top: 40px;
+}
